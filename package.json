@@ -19,7 +19,7 @@
     "docs:dev": "node ./packages/cli/bin/zajs.js dev",
     "preinstall": "node ./scripts/checkYarn.js",
     "prettier": "prettier --write '**/*.{js,jsx,tsx,ts,less,md,json}'",
-    "release": "yarn run build && lerna publish prepatch --exact --conventional-commits --force-publish",
+    "release": "yarn run build && lerna publish patch --exact --conventional-commits --force-publish",
     "release:beta": "lerna publish --force-publish=* --exact --preid=beta --npm-tag=beta",
     "release:lerna": "lerna version --exact --no-git-tag-version"
   },
