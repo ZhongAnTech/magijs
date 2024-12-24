@@ -1,6 +1,6 @@
 {
   "name": "@magijs/plugin-constraint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "lib/index.js",
   "module": "esm/index.js",
@@ -16,7 +16,7 @@
     "watch": "rimraf ./lib && tsc --watch"
   },
   "dependencies": {
-    "@magijs/compiled": "^0.0.1"
+    "@magijs/compiled": "0.0.2"
   },
   "devDependencies": {
     "umi": "^3.x.x"

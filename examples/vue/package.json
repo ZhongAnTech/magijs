@@ -1,18 +1,19 @@
 {
+  "version": "0.0.2",
   "private": true,
   "author": "",
   "scripts": {
-    "xxx": "cross-env DEPLOY_ENV=prd magi build",
     "postinstall": "magi setup",
     "lint": "magi lint",
     "lint:report": "magi lint --report",
     "magi": "magi",
     "server": "magi deploy",
-    "start": "cross-env DEPLOY_ENV=dev magi dev"
+    "start": "cross-env DEPLOY_ENV=dev magi dev",
+    "xxx": "cross-env DEPLOY_ENV=prd magi build"
   },
   "dependencies": {
-    "@magijs/cli": "^0.0.1-alpha.49",
-    "@magijs/magi": "^0.0.1-alpha.49",
+    "@magijs/cli": "0.0.2",
+    "@magijs/magi": "0.0.2",
     "vue": "^3.2.36"
   },
   "devDependencies": {

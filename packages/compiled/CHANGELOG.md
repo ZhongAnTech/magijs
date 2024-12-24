@@ -3,21 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.0.1](https://github.com/stbui/magijs/compare/v0.0.1-alpha.48...v0.0.1) (2024-05-16)
+## [0.0.2](https://github.com/ZhongAnTech/magijs/compare/v0.0.1...v0.0.2) (2024-12-24)
 
+**Note:** Version bump only for package @magijs/compiled
+
+## [0.0.1](https://github.com/stbui/magijs/compare/v0.0.1-alpha.48...v0.0.1) (2024-05-16)
 
 ### Bug Fixes
 
-* 移除npm-upldate ([37e0470](https://github.com/stbui/magijs/commit/37e0470267f546b9243efd0f36c209b9b4c0d3e7))
-
+- 移除 npm-upldate ([37e0470](https://github.com/stbui/magijs/commit/37e0470267f546b9243efd0f36c209b9b4c0d3e7))
 
 ### Features
 
-* **lint:** 更新lint代码 ([3538f4f](https://github.com/stbui/magijs/commit/3538f4fd1f2083c72222971939a036279421d933))
-
-
-
-
+- **lint:** 更新 lint 代码 ([3538f4f](https://github.com/stbui/magijs/commit/3538f4fd1f2083c72222971939a036279421d933))
 
 ## [0.0.1-alpha.47](https://github.com/stbui/magijs/compare/v0.0.1-alpha.46...v0.0.1-alpha.47) (2022-11-23)
 

@@ -3,16 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.0.1](https://github.com/stbui/magijs/compare/v0.0.1-alpha.48...v0.0.1) (2024-05-16)
-
+## [0.0.2](https://github.com/ZhongAnTech/magijs/compare/v0.0.1...v0.0.2) (2024-12-24)
 
 ### Features
 
-* **lint:** 更新lint代码 ([3538f4f](https://github.com/stbui/magijs/commit/3538f4fd1f2083c72222971939a036279421d933))
+- add compression filter ([d2d061a](https://github.com/ZhongAnTech/magijs/commit/d2d061a3d1c90637650c0ee4a08c7adba3f58ec9))
 
+## [0.0.1](https://github.com/stbui/magijs/compare/v0.0.1-alpha.48...v0.0.1) (2024-05-16)
 
+### Features
 
-
+- **lint:** 更新 lint 代码 ([3538f4f](https://github.com/stbui/magijs/commit/3538f4fd1f2083c72222971939a036279421d933))
 
 ## [0.0.1-alpha.48](https://github.com/stbui/magijs/compare/v0.0.1-alpha.47...v0.0.1-alpha.48) (2022-12-06)
 

@@ -1,6 +1,6 @@
 {
   "name": "@magijs/stylelint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "license": "ISC",
   "author": "",
@@ -20,7 +20,7 @@
     "watch": "rimraf ./lib && tsc --watch"
   },
   "dependencies": {
-    "@magijs/compiled": "^0.0.1",
+    "@magijs/compiled": "0.0.2",
     "stylelint": "13.6.1",
     "stylelint-checkstyle-formatter": "0.1.2",
     "stylelint-config-recommended-scss": "^7.0.0",
